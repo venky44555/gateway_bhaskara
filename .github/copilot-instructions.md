@@ -1,0 +1,3 @@
+- Scaffolded a Vite React application in the current workspace.
+- Verified the application builds successfully with `npm run build`.
+- Use `npm install` if dependencies are missing and `npm run dev` to start the app.
